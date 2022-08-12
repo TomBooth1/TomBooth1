@@ -14,9 +14,9 @@ Please take the time to look around, there are a few humble projects on here mai
 
 😄 Recently Finished Projects:
 
-- [Bootcamper Social](https://front-end-bootcamper-social.netlify.app/) This is a social event database aimed at Bootcampers on the school of code created in a week with 3 other team members from scratch.
+- [Bootcamper Social](https://front-end-bootcamper-social.netlify.app/) which is a social event database aimed at Bootcampers on the school of code created in a week with 3 other team members from scratch using React, Postgres and NodeJs.
 
-- [Untrodden](https://untroddenapp.netlify.app/) - A Community based Uk Unique Locations finder and sharing platform deployed on netlify. This is my Final Project at the School of Code and has been created from scratch by myself and 4 others over 4 weeks.
+- [Untrodden](https://untroddenapp.netlify.app/) which is a Community based Uk Unique Locations finder and sharing platform deployed on netlify. This is my Final Project at the School of Code and has been created from scratch by myself and 4 others over 4 weeks using a plethora of technology notably NextJs, Postgres and NodeJs.
 
 
 💬 If you think those projects or anything in my [repos](https://github.com/Plume93?tab=repositories) is good, bad, something you'd like to work on or enough to make you want to trade your money for my skills don't hesitate to let me know! Either on [LinkedIn](https://www.linkedin.com/in/tom-booth-239715239/) or [Twitter](https://twitter.com/TomBooth453). <br/><br/>
