@@ -4,7 +4,7 @@
 I Spent the last decade Managing and building Events From Theatre to Festivals,<br/> 
 now I spend my time managing google searches and building full stack apps.<br/>
 
-Please take the time to look around, there are a few humble projects on here, none of which are completed (at time of writing 14/7/22) but soon will be, so watch this space for some big baller stuff!
+Please take the time to look around, there are a few humble projects on here mainly exploring javascript, react NodeJs and Postgres to create full-stack web apps, none of which are completed (at time of writing 14/7/22) but soon will be, so watch this space for some big baller stuff!
 
 🤔 I'm Currently working on: 
 - My Portfolio Site [Fire From The Booth](https://github.com/Plume93/fire-from-the-booth) (Not Deployed) that I [designed myself](https://www.figma.com/file/zIBuCztelBzlQ9rHRsEil9/fire-from-the-booth) and am building in React.
