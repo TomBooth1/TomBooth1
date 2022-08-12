@@ -9,7 +9,7 @@ Please take the time to look around, there are a few humble projects on here mai
 🤔 I'm Currently working on: 
 
 - My Portfolio Site [Fire From The Booth](https://github.com/Plume93/fire-from-the-booth) (Not Deployed) that I [designed myself](https://www.figma.com/file/zIBuCztelBzlQ9rHRsEil9/fire-from-the-booth) and am building in React.
-- 
+
 - An API Based react app called [Make Your Mon](https://github.com/Plume93/make-your-mon) (Not Deployed) that will enable you to make your own Pokemon.
 
 😄 Recently Finished Projects:
