@@ -8,9 +8,9 @@ Please take the time to look around, there are a few humble projects on here mai
 
 🤔 I'm Currently working on: 
 
-- My Portfolio Site [Fire From The Booth](https://firefromthebooth.netlify.app/) (Deployed) that I [designed myself](https://www.figma.com/file/zIBuCztelBzlQ9rHRsEil9/fire-from-the-booth) and am building in React next steps are to get the responsve design all tight and looking right.
+- My Portfolio Site [Fire From The Booth](https://firefromthebooth.netlify.app/) (Deployed) that I [designed myself](https://www.figma.com/file/zIBuCztelBzlQ9rHRsEil9/fire-from-the-booth) and am building in React next steps are to get the responsive design all tight and looking right.
 
-- an Ecommerce website for a potter from scratch using NextJS - mainly to test my knowledge and abilities to create a checkout and basket feature aswell as getting familiar with the paypal API. The repo is provate but will post the deploy link as soon as it isnt awful :).
+- an Ecommerce website for a potter from scratch using NextJS - mainly to test my knowledge and abilities to create a checkout and basket feature aswell as getting familiar with the paypal API. The repo is private but will post the deploy link as soon as it isnt awful :).
 
 😄 Recently Finished Projects:
 
